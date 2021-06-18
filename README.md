@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![hello_rus](./static/hello_rus.gif)
+![mona-whisper](./static/mona-whisper.gif)
+
 <!--
 **Gesugao-san/Gesugao-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
