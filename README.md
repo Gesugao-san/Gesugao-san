@@ -1,9 +1,14 @@
-# Hi there 👋
 
-![hello_rus](./static/hello_rus.gif)
-![mona-whisper](./static/mona-whisper.gif)
+### Hello there 👋
 
-### 📊 Stats
+![hello-there_eng](./static/hello-there_eng.gif)
+
+### Привет 👋
+
+![hello-there_rus](./static/hello-there_rus.gif)
+
+---
+
 <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gesugao-san&hide_title=true&theme=dracula&hide_border=true" alt="Gesugao-san's GitHub Statistics">
     <!--
