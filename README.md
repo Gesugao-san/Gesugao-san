@@ -1,20 +1,36 @@
 
-### Hello there 👋
+<p align="center">
+  <a href="https://github.com/Gesugao-san/">
+    <img src="./static/_general/header.png" width="1491px">
+  </a>
+</p>
 
-![hello-there_eng](./static/hello-there_eng.gif)
+## Hello there
 
-### Привет 👋
-
-![hello-there_rus](./static/hello-there_rus.gif)
+<div>
+  <details>
+    <summary><img src="./static/_general/wave.gif" width="30px"></summary>
+    <ul>
+      <li><label><br></label>
+      <label><img align="center" src="./static/rus/hello-there_rus.gif" alt="Hello there (rus)"></label>
+      <li><label><br></label>
+      <label><img align="center" src="./static/eng/hello-there_eng.gif" alt="Hello there (eng)"></label>
+      <li><label><br></label>
+    </ul>
+  </details>
+</div>
 
 ---
 
 <p align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Gesugao-san&hide_title=true&theme=dracula&hide_border=true" alt="Gesugao-san's GitHub Statistics">
-    <!--
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gesugao-san&layout=compact&theme=dracula&hide_border=true" alt="Gesugao-san's Most Used Languages">
-    -->
+  <a href="https://github.com/Gesugao-san/Gesugao-san">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gesugao-san&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  </a>
+  <a href="https://github.com/Gesugao-san/Gesugao-san">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gesugao-san&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gesugao-san's GitHub Stats" />
+  </a>
 </p>
+
 
 <!--
 **Gesugao-san/Gesugao-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
