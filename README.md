@@ -5,7 +5,11 @@
   </a>
 </p>
 
-## Hello there
+<p align="center">
+  <a href="https://github.com/Gesugao-san/Gesugao-san">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gesugao-san&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="Gesugao-san's GitHub Stats" />
+  </a>
+</p>
 
 <div>
   <details>
@@ -19,17 +23,6 @@
     </ul>
   </details>
 </div>
-
----
-
-<p align="center">
-  <a href="https://github.com/Gesugao-san/Gesugao-san">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gesugao-san&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&langs_count=3" />
-  </a>
-  <a href="https://github.com/Gesugao-san/Gesugao-san">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gesugao-san&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="Gesugao-san's GitHub Stats" />
-  </a>
-</p>
 
 
 <!--
