@@ -1,28 +1,201 @@
 
 <p align="center">
-  <a href="https://github.com/Gesugao-san/">
-    <img src="./static/_general/header.png" width="1491px">
-  </a>
+	<a href="https://github.com/Gesugao-san/">
+		<img
+			src="./static/_general/header.png"
+			width="1491px"
+		>
+	</a>
 </p>
+
+
+<details>
+	<summary>
+		Greetings protocol
+	</summary>
+<blockquote>
+<details><summary> English </summary><blockquote>
+<img
+	align="center"
+	src="./static/eng/hello-there_eng.gif"
+	alt="Hello there (eng)"
+	width="372">
+</blockquote></details>
+
+<details><summary> Russian (Русский) </summary><blockquote>
+<img
+	align="center"
+	src="./static/rus/hello-there_rus.gif"
+	alt="Hello there (rus)"
+	width="372">
+</blockquote></details>
+</blockquote></details>
+
+---
 
 <p align="center">
+  <!--
   <a href="https://github.com/Gesugao-san/Gesugao-san">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gesugao-san&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117" alt="Gesugao-san's GitHub Stats" />
+    <img
+		align="left"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gesugao-san&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117&langs_count=3"
+	/></a>
+  </a>
+  -->
+  <a href="https://github.com/Gesugao-san/Gesugao-san">
+    <img
+		align="right"
+		src="https://github-readme-stats.vercel.app/api?username=Gesugao-san&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0d1117"
+		alt="Gesugao-san's GitHub Stats"
+	/></a>
   </a>
 </p>
 
-<div>
-  <details>
-    <summary><a href=""><img src="./static/_general/wave.gif" width="30px"></a></summary>
-    <ul>
-      <li><label><br></label>
-      <label><img align="center" src="./static/rus/hello-there_rus.gif" alt="Hello there (rus)"></label>
-      <li><label><br></label>
-      <label><img align="center" src="./static/eng/hello-there_eng.gif" alt="Hello there (eng)"></label>
-      <li><label><br></label>
-    </ul>
-  </details>
-</div>
+### Projects
+
+* Space Station 13: [SS13 Codebases], [SS13 Sigma] \(old\)
+* More: *(exist but todo to write down here)*
+
+# List of technologies
+
+<table border="0">
+    <caption></caption>
+	<tr>
+		<th>
+			Category
+		</th>
+		<th>
+			<ruby>
+				<rb> Name of technology </rb>
+				<rt> (clickable) </rt>
+			</ruby>
+		</th>
+	</tr>
+	<tr>
+		<td><li>Langs: </li></td>
+		<td>
+			<a href="https://www.python.org/">
+			<img
+				alt="Python"
+				src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"
+			/>
+			</a>
+			<a href="https://dotnet.microsoft.com/">
+			<img
+				alt="C#"
+				src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"
+			/></a>
+			<a href="https://www.javascript.com/">
+			<img
+				alt="JavaScript"
+				src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
+			/></a>
+			<a href="https://www.mysql.com/">
+			<img
+				alt="MySQL"
+				src="https://img.shields.io/badge/-MySQL-00758e?style=flat-square&logo=mysql&logoColor=white"
+			/></a>
+			<a href="https://mariadb.org/">
+			<img
+				alt="MariaDB"
+				src="https://img.shields.io/badge/-MariaDB-c0765c?style=flat-square&logo=mariadb&logoColor=white"
+			/></a>
+		</td>
+	</tr>
+	<tr>
+		<td><li>Langs (specific): </li></td>
+		<td>
+			<a href="http://pascalabc.net/en/">
+			<img
+				alt="icon"
+				src="./static/_general/pascal_228px.png"
+				width="18"
+			/>
+			<img
+				alt="PascalABC.NET"
+				src="https://img.shields.io/badge/-PascalABC.NET-933893?style=flat-square&logo=pascal&logoColor=white"
+			/>
+			</a>
+			<a href="http://www.byond.com/">
+			<img
+				alt="icon"
+				src="./static/_general/byond_280px.png"
+				width="18"
+			/>
+			</a>
+			<ruby>
+				<rb>
+					<a href="http://www.byond.com/">
+					<img
+						alt="DM"
+						src="https://img.shields.io/badge/-DM_(BYOND)-2e46d4?style=flat-square&logo=dm&logoColor=white"
+					/>
+					</a>
+				</rb>
+				<rt> (Dream Maker) </rt>
+			</ruby>
+		</td>
+	</tr>
+	<tr>
+		<td><li>Web: </li></td>
+		<td>
+			<a href="https://html5.org/">
+			<img
+				alt="HTML 5"
+				src="https://img.shields.io/badge/-HTML_5-E34F26?style=flat-square&logo=html5&logoColor=white"
+			/></a>
+			<a href="https://www.w3.org/Style/CSS/Overview.en.html">
+			<img
+				alt="CSS 3"
+				src="https://img.shields.io/badge/-CSS_3-1572B6?style=flat-square&logo=css3&logoColor=white"
+			/></a>
+			<a href="https://reactjs.org/">
+			<img
+				alt="React JS"
+				src="https://img.shields.io/badge/-React_JS-232325?style=flat-square&logo=react&logoColor=7cdffd"
+			/></a>
+		</td>
+	</tr>
+	<tr>
+		<td><li>OS: </li></td>
+		<td>
+			<a href="https://www.microsoft.com/en-us/windows/">
+			<img
+				alt="Windows"
+				src="https://img.shields.io/badge/-Windows-2c7ad2?style=flat-square&logo=windows&logoColor=white"
+			/></a>
+			<a href="https://ubuntu.com/">
+			<img
+				alt="Ubuntu"
+				src="https://img.shields.io/badge/-Ubuntu-df491b?style=flat-square&logo=ubuntu&logoColor=white"
+			/></a>
+		</td>
+	</tr>
+	<tr>
+		<td><li>IDE: </li></td>
+		<td>
+			<a href="https://code.visualstudio.com/">
+			<img
+				alt="Visual Studio Code"
+				src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"
+			/></a>
+		</td>
+	</tr>
+	<tr>
+		<td><li>Others: </li></td>
+		<td>
+			<a href="https://git-scm.com/">
+			<img
+				alt="git"
+				src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white"
+			/></a>
+		</td>
+	</tr>
+</table>
+
+
+[SS13 Codebases]: https://github.com/Gesugao-san/SS13-Codebases#readme
+[SS13 Sigma]: https://github.com/ss13-sigma-dev/sigma#readme
 
 
 <!--
