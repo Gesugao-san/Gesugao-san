@@ -35,7 +35,7 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <!--
   <a href="https://github.com/Gesugao-san/Gesugao-san">
     <img
@@ -44,6 +44,7 @@
 	/></a>
   </a>
   -->
+  <!--
   <a href="https://github.com/Gesugao-san/Gesugao-san">
     <img
 		align="right"
@@ -51,7 +52,7 @@
 		alt="Gesugao-san's GitHub Stats"
 	/></a>
   </a>
-</p>
+</p> -->
 
 ### Projects
 
@@ -279,7 +280,7 @@
 
 ---
 
-
+![Metrics](https://metrics.lecoq.io/Gesugao-san?template=classic&followup=1&gists=1&lines=1&projects=1&followup.sections=repositories&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FMoscow)
 ![](https://hit.yhype.me/github/profile?user_id=28023014)
 
 
