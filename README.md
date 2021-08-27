@@ -67,7 +67,7 @@
 		<th>
 			<ruby>
 				<rb> Name of technology </rb>
-				<rt> (clickable) </rt>
+				<rt> (clickable + <a href="https://archive.org/web/">Wayback Machine</a> saved) </rt>
 			</ruby>
 		</th>
 	</tr>
@@ -205,19 +205,51 @@
 		<td><li>Graphs&charts: </li></td>
 		<td>
 			Evolving:
-			<small><i>(losted)</i></small>
-			→
-			<a href="https://graphviz.org/">
-			<img
-				alt="icon"
-				src="./static/_general/graphviz.png"
-				width="18"
-			/>
-			<img
-				alt="Graphviz"
-				src="https://img.shields.io/badge/-Graphviz-2C7AD2?style=flat-square&logo=graphviz&logoColor=white"
-			/>
-			</a>
+			<ruby>
+				<rb>
+					<a href="https://bubbl.us/">
+					<img
+						alt="icon"
+						src="./static/_general/bubbl-us.png"
+						width="18"
+					/>
+					<img
+						alt="bubbl.us"
+						src="https://img.shields.io/badge/-bubbl.us-2D83BD?style=flat-square&logo=bubbl-us&logoColor=white"
+					/>
+					</a>
+				</rb>
+				<rt><a href="http://go.bubbl.us/7932d6/2003?/ПП/"> (between 2016 and 2017) </a></rt>
+			</ruby>
+			<ruby>
+				<rb>
+					→
+				</rb>
+				<rt> (big pause) </rt>
+			</ruby>
+			<ruby>
+				<rb>
+					<a href="https://graphviz.org/">
+					<img
+						alt="icon"
+						src="./static/_general/graphviz.png"
+						width="18"
+					/>
+					<img
+						alt="Graphviz"
+						src="https://img.shields.io/badge/-Graphviz-2C7AD2?style=flat-square&logo=graphviz&logoColor=white"
+					/>
+					</a>
+				</rb>
+				<rt><a href="https://github.com/Gesugao-san/SS13-Codebases/"> (June of 2021) </a></rt>
+			</ruby>
+			<br>
+			To review:
+			<a href="https://www.diagrams.net/">.DrawIO <small>(old Jgraph)</small></a>,
+			<a href="https://www.yworks.com/products/yed/">yED Graph Editor</a>.
+			<br>
+			<li>askubuntu <a href="https://askubuntu.com/q/16388/"><small>(q16388)</small></a> list: </li>
+			<a href="https://cacoo.com/">Cacoo</a>, <a href="https://www.networkmaps.org/">NetworkMaps <small>(old MaSSHandra)</small></a>, <a href="https://www.gliffy.com/">Gliffy</a>, <a href="https://creately.com/">Creately</a>.
 		</td>
 	</tr>
 	<tr>
@@ -225,8 +257,19 @@
 		<td>
 			<a href="https://git-scm.com/">
 			<img
-				alt="git"
-				src="https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white"
+				alt="git-scm"
+				src="https://img.shields.io/badge/-git--scm-F05032?style=flat-square&logo=git&logoColor=white"
+			/></a>
+			</a>
+			<a href="https://archive.org/web/">
+			<img
+				alt="icon"
+				src="./static/_general/Wayback_Machine.png"
+				width="18"
+			/>
+			<img
+				alt="Wayback Machine"
+				src="https://img.shields.io/badge/-Wayback_Machine-A62D31?style=flat-square&logo=wayback_machine&logoColor=white"
 			/></a>
 		</td>
 	</tr>
