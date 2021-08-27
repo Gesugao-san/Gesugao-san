@@ -103,7 +103,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td><li>Langs (specific): </li></td>
+		<td><li>↑ (specific): </li></td>
 		<td>
 			<a href="http://pascalabc.net/en/">
 			<img
@@ -162,12 +162,12 @@
 			<a href="https://www.microsoft.com/en-us/windows/">
 			<img
 				alt="Windows"
-				src="https://img.shields.io/badge/-Windows-2c7ad2?style=flat-square&logo=windows&logoColor=white"
+				src="https://img.shields.io/badge/-Windows-2C7AD2?style=flat-square&logo=windows&logoColor=white"
 			/></a>
 			<a href="https://ubuntu.com/">
 			<img
 				alt="Ubuntu"
-				src="https://img.shields.io/badge/-Ubuntu-df491b?style=flat-square&logo=ubuntu&logoColor=white"
+				src="https://img.shields.io/badge/-Ubuntu-DF491B?style=flat-square&logo=ubuntu&logoColor=white"
 			/></a>
 		</td>
 	</tr>
@@ -179,6 +179,45 @@
 				alt="Visual Studio Code"
 				src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"
 			/></a>
+		</td>
+	</tr>
+	<tr>
+		<td><li>Social: </li></td>
+		<td>
+			<a href="https://vk.com/">
+			<img
+				alt="VKontakte"
+				src="https://img.shields.io/badge/-VKontakte-FFFFFF?style=flat-square&logo=vk&logoColor=007ACC"
+			/></a>
+			<a href="https://discord.com/">
+			<img
+				alt="Discord"
+				src="https://img.shields.io/badge/-Discord-404EED?style=flat-square&logo=discord&logoColor=white"
+			/></a>
+			<a href="https://telegram.org/?setln=en">
+			<img
+				alt="Telegram"
+				src="https://img.shields.io/badge/-Telegram-white?style=flat-square&logo=telegram&logoColor=white"
+			/></a>
+		</td>
+	</tr>
+	<tr>
+		<td><li>Graphs&charts: </li></td>
+		<td>
+			Evolving:
+			<small><i>(losted)</i></small>
+			→
+			<a href="https://graphviz.org/">
+			<img
+				alt="icon"
+				src="./static/_general/graphviz.png"
+				width="18"
+			/>
+			<img
+				alt="Graphviz"
+				src="https://img.shields.io/badge/-Graphviz-2C7AD2?style=flat-square&logo=graphviz&logoColor=white"
+			/>
+			</a>
 		</td>
 	</tr>
 	<tr>
