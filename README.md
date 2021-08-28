@@ -273,7 +273,10 @@
 			<img
 				alt="yED Graph Editor"
 				src="https://img.shields.io/badge/-yED_Graph_Editor-242265?style=flat-square&logo=yed&logoColor=white"
-			/></a>.
+			/></a>,
+			<a href="https://vega.github.io/vega/examples/tree-layout/">
+			Vega
+			</a>.
 			<br>
 			<li>askubuntu <a href="https://askubuntu.com/q/16388/"><small>(q16388)</small></a> list: </li>
 			<a href="https://cacoo.com/">Cacoo</a>, <a href="https://www.networkmaps.org/">NetworkMaps <small>(old MaSSHandra)</small></a>, <a href="https://www.gliffy.com/">Gliffy</a>, <a href="https://creately.com/">Creately</a>.
