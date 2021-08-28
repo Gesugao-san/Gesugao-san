@@ -81,8 +81,7 @@
 			<img
 				alt="Python"
 				src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"
-			/>
-			</a>
+			/></a>
 			<a href="https://dotnet.microsoft.com/">
 			<img
 				alt="C#"
@@ -117,23 +116,20 @@
 			<img
 				alt="PascalABC.NET"
 				src="https://img.shields.io/badge/-PascalABC.NET-933893?style=flat-square&logo=pascal&logoColor=white"
-			/>
-			</a>
+			/></a>
 			<a href="http://www.byond.com/">
 			<img
 				alt="icon"
 				src="./static/_general/byond_280px.png"
 				width="18"
-			/>
-			</a>
+			/></a>
 			<ruby>
 				<rb>
 					<a href="http://www.byond.com/">
 					<img
 						alt="DM"
 						src="https://img.shields.io/badge/-DM_(BYOND)-2e46d4?style=flat-square&logo=dm&logoColor=white"
-					/>
-					</a>
+					/></a>
 				</rb>
 				<rt> (Dream Maker) </rt>
 			</ruby>
@@ -219,40 +215,70 @@
 					<img
 						alt="bubbl.us"
 						src="https://img.shields.io/badge/-bubbl.us-2D83BD?style=flat-square&logo=bubbl-us&logoColor=white"
-					/>
-					</a>
+					/></a>
 				</rb>
 				<rt><a href="http://go.bubbl.us/7932d6/2003?/ПП/"> (between 2016 and 2017) </a></rt>
 			</ruby>
+			→
 			<ruby>
 				<rb>
-					→
+					<a href="https://www.microsoft.com/ru-ru/microsoft-365/visio/flowchart-software/">
+					<img
+						alt="icon"
+						src="./static/_general/visio.png"
+						width="18"
+					/>
+					<img
+						alt="Visio"
+						src="https://img.shields.io/badge/-Visio-39559F?style=flat-square&logo=visio&logoColor=white"
+					/></a>
 				</rb>
-				<rt> (big pause) </rt>
+				<rt> (1 private, ~2020) </rt>
 			</ruby>
+			→
 			<ruby>
 				<rb>
 					<a href="https://graphviz.org/">
 					<img
 						alt="icon"
-						src="./static/_general/graphviz.png"
+						src="./static/_general/Graphviz2.png"
 						width="18"
 					/>
 					<img
 						alt="Graphviz"
 						src="https://img.shields.io/badge/-Graphviz-2C7AD2?style=flat-square&logo=graphviz&logoColor=white"
-					/>
-					</a>
+					/></a>
 				</rb>
-				<rt><a href="https://github.com/Gesugao-san/SS13-Codebases/"> (June of 2021) </a></rt>
+				<rt><a href="https://github.com/Gesugao-san/SS13-Codebases/"> (about June of 2021) </a></rt>
 			</ruby>
 			<br>
 			To review:
-			<a href="https://www.diagrams.net/">.DrawIO <small>(old Jgraph)</small></a>,
-			<a href="https://www.yworks.com/products/yed/">yED Graph Editor</a>.
+			<a href="https://www.diagrams.net/">
+			<!-- <img
+				alt="icon"
+				src="./static/_general/diagrams.png"
+				width="18"
+			/> -->
+			<img
+				alt="diagrams.net"
+				src="https://img.shields.io/badge/-diagrams.net_(old_Jgraph)-F08705?style=flat-square&logo=diagrams.net&logoColor=white"
+			/></a>
+			,
+			<a href="https://www.yworks.com/products/yed/">
+			<img
+				alt="icon"
+				src="./static/_general/yed.png"
+				width="18"
+			/>
+			<img
+				alt="yED Graph Editor"
+				src="https://img.shields.io/badge/-yED_Graph_Editor-242265?style=flat-square&logo=yed&logoColor=white"
+			/></a>.
 			<br>
 			<li>askubuntu <a href="https://askubuntu.com/q/16388/"><small>(q16388)</small></a> list: </li>
 			<a href="https://cacoo.com/">Cacoo</a>, <a href="https://www.networkmaps.org/">NetworkMaps <small>(old MaSSHandra)</small></a>, <a href="https://www.gliffy.com/">Gliffy</a>, <a href="https://creately.com/">Creately</a>.
+			<li>others list: </li>
+			<a href="https://www.lucidchart.com/pages/">Lucidchart</a>, <a href="https://drawio-app.com/">DrawIO</a>.
 		</td>
 	</tr>
 	<tr>
@@ -280,7 +306,11 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/Gesugao-san?template=classic&followup=1&gists=1&lines=1&projects=1&followup.sections=repositories&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FMoscow)
+![](https://metrics.lecoq.io/Gesugao-san?template=classic&followup=1&gists=1&lines=1&config.timezone=Europe%2FMoscow)
+
+---
+
+![](https://metrics.lecoq.io/GesuPlace?template=classic&followup=1&lines=1&&config.timezone=Europe%2FMoscow)
 ![](https://hit.yhype.me/github/profile?user_id=28023014)
 
 

@@ -24,5 +24,3 @@ jobs:
           plugin_followup_sections: repositories
           plugin_gists: yes
           plugin_lines: yes
-          plugin_projects: yes
-          plugin_projects_limit: 4
