@@ -10,26 +10,26 @@
 
 
 <p> <b>Hi!</b> My nickname is Gesugao-san, but you can just call me Gesu. </p>
-<p> How did this nickname come about? One day I saw a couple of videos that I liked and I wanted to immortalize it. And "-san" is a respectful name prefix in Japanese. Yes, it's that simple and unpretentious! While I can't say that my mood always matches those videos, I don't regret my choice.
+<p> How did this nickname come about? One day I saw a <a href="https://youtu.be/uuBETyA_yxc">couple</a> <a href="https://youtu.be/nlzv-5XwatA">of</a> <a href="https://youtu.be/AgleELPY2As">videos</a> that I liked and I wanted to immortalize it. And "-san" is a respectful <a href="https://en.wikipedia.org/wiki/Japanese_honorifics#San">name prefix in Japanese</a>. Yes, it's that simple and unpretentious! While I can't say that my mood always matches those videos, I don't regret my choice.
 
-<b>Coding is like magic</b> when you program reality to your needs and desires. Although this reality of computers and servers is not entirely real for living people of flesh and blood... but who said that the reality of programming is not more real than reality?.
+<b>Coding is like <a href="https://tenor.com/view/12702119">magic</a></b> when you program reality to your needs and desires. Although this reality of computers and servers is not entirely real for living people of flesh and blood... but who said that the reality of programming is not more real than reality?
 
-Unfortunately, studies have always been difficult for me - I study under duress in the past. It also affected my learning to code, but now, regular small wins over solving local problems are increasingly pushing me to self-educate and experiment, becoming more and more crazy over time.
+Unfortunately, studying has always been difficult for me - in the past I study under duress. It also affected my coding studies, but now, regular small wins over solving local problems increasingly make me feel pleasure and a sense of my own <a href="https://youtu.be/309QZhbLw8k">strength</a> and <a href="https://youtu.be/0H6kokpE_GQ">coolness</a>, which pushes me to self-educate and experiment, becoming more and more crazy over time.
 
-My favorite programming language is <b>Node.JS</b> and Javascript in general, and I'm also fond of designing servers in <b>Discord</b>.
+My favorite programming language is <b>Node.JS</b> and Javascript in general, and I'm also fond of designing servers in <b>Discord</b> (and they also have an interesting <a href="https://discord.com/api/invite/123">API</a>).
 
 I don't have a fixed schedule and I do my pet projects in my spare time. I can help with your projects if you're interested. On enthusiasm.</p>
 
 
 <details><summary> On original language </summary>
 <p> <b>Привет!</b> Мой ник — Gesugao-san, но также я отзываюсь на "Гесу" или вообще "Гес". </p>
-<p> Как этот никнейм появился? Однажды я увидел пару видео, которые мне понравились, и мне захотелось увековечить это. А "-сан" - это уважительная приставка к имени в Японском языке. Да, вот так просто и незатейливо! Хоть я и не могу сказать, что моё настроение всегда подстать тем видео, я не жалею о выборе.
+<p> Как этот никнейм появился? Однажды я увидел <a href="https://youtu.be/uuBETyA_yxc">пару</a> <a href="https://youtu.be/nlzv-5XwatA">интересных</a> <a href="https://youtu.be/AgleELPY2As">видео</a>, которые мне понравились, и мне захотелось увековечить это. А "-сан" - это уважительная <a href="https://ru.wikipedia.org/wiki/Именные_суффиксы_в_японском_языке#-сан">приставка к имени в Японском языке</a>. Да, вот так просто и незатейливо! Хоть я и не могу сказать, что моё настроение всегда подстать тем видео, я не жалею о выборе.
 
-<b>Кодинг похож на магию</b>, когда ты программируешь реальность под свои нужды и желания. Хоть эта реальность компьютеров и серверов не совсем реальна для живых людей из плоти и крови... но кто сказал, что [реальность программирования не реальнее реальности](https://youtu.be/ZgeEQHYdDpo?t=1368)?
+<b>Кодинг похож на <a href="https://tenor.com/view/12702119">магию</a></b>, когда ты программируешь реальность под свои нужды и желания. Хоть эта реальность компьютеров и серверов не совсем реальна для живых людей из плоти и крови... но кто сказал, что [реальность программирования не реальнее реальности](https://youtu.be/ZgeEQHYdDpo?t=1368)?
 
-К сожалению, учёба всегда давалась мне тяжело - в прошлом я учится из-под палки. Это также сказалось на учёбе кодингу, но сейчас, регулярные небольшие победы над решением локальных задач всё чаще поддталкивают меня на самообразование и эксперименты, становящиеся со временем всё более и более безумными.
+К сожалению, учёба всегда давалась мне тяжело - в прошлом я учится из-под палки. Это также сказалось на учёбе кодингу, но сейчас, регулярные небольшие победы над решением локальных задач всё чаще заставляют испытывать удовольствие и ощущение собственной <a href="https://youtu.be/309QZhbLw8k">силы</a> и <a href="https://youtu.be/0H6kokpE_GQ">крутости</a>, что поддталкивает меня на самообразование и эксперименты, становящиеся со временем всё более и более безумными.
 
-Мой любимый язык программирования - <b>Node.JS</b> и Javascript в целом, а также увлекаюсь оформлением серверов в <b>Discord</b>.
+Мой любимый язык программирования - <b>Node.JS</b> и Javascript в целом, а также увлекаюсь оформлением серверов в <b>Discord</b> (а ещё у них интересный <a href="https://discord.com/api/invite/123">API</a>).
 
 У меня нет чёткого расписания, и я делаю свои пет-проектики в свободное время. Могу помочь с твоим проектами, если заинтересуешь. На энтузиазме. </p>
 </details>
