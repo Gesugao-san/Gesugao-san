@@ -362,6 +362,7 @@ I don't have a fixed schedule and I do my pet projects in my spare time. I can h
 
 ![](https://metrics.lecoq.io/GesuPlace?template=classic&followup=1&lines=1&&config.timezone=Europe%2FMoscow)
 ![](https://hit.yhype.me/github/profile?user_id=28023014)
+[![Gesugao-san StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8175291&theme=dark)](https://stackoverflow.com/users/8175291/Gesugao-san)  
 
 See also: <a href="https://wakatime.com/@GesugaoSan">Wakatime</a>, <a href="https://profile-summary-for-github.com/user/Gesugao-san">Profile-summary-for-github</a>
 
